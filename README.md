@@ -1,0 +1,2 @@
+# python_case_Particle-swarm-optimization
+4月份帮一个老大哥写的，用粒子群算法来解决一些寻找矩形的问题
